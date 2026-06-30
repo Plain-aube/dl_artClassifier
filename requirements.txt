@@ -1,0 +1,15 @@
+
+pandas
+matplotlib
+matplotlib
+seaborn
+numpy
+PIL
+tensorflow
+os
+pathlib
+gc
+shutil
+traceback
+mlflow
+urllib.request
