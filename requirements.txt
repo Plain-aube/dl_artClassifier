@@ -1,15 +1,7 @@
-
 pandas
-matplotlib
 matplotlib
 seaborn
 numpy
-PIL
-tensorflow
-os
-pathlib
-gc
-shutil
-traceback
+Pillow
+tensorflow-cpu
 mlflow
-urllib.request
